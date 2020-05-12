@@ -1,11 +1,5 @@
 #pget master file 
 #https://github.com/Qazaroth/PGet
 
-#-----------------------------------------------------
-#                     CHANGELOG
-#12-MAY-2020: First commit
-#-----------------------------------------------------
-
-#this file is delimited thus:
-# [#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename], MD5hash, Author, Category, Last Modified, tags, [script size],
-[#],test,https://raw.githubusercontent.com/Qazaroth/pget-list/master/test.py,The Pget test file,test.py,80a341a7a2925d0633d71b8cbb56dc8c,Qazaroth,test files,Infinity,testfile,Infinite
+#[#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename], MD5hash, Author, Category, Last Modified, tags, [script size],
+-[#],test,https://raw.githubusercontent.com/Qazaroth/pget-list/master/test.py,The Pget test file,test.py,80a341a7a2925d0633d71b8cbb56dc8c,Qazaroth,test files,Infinity,testfile,Infinite
