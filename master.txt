@@ -3,3 +3,4 @@
 
 #[#], [script name] ,[script location (i.e. web address) ] ,[script description], [script's local filename], MD5hash, Author, Category, Last Modified, tags, [script size],
 --[#],test,https://raw.githubusercontent.com/Qazaroth/pget-list/master/test.py,The Pget test file,test.py,80a341a7a2925d0633d71b8cbb56dc8c,Qazaroth,test files,Infinity,testfile,Infinite
+--[#],helloworld,https://raw.githubusercontent.com/Qazaroth/pget-list/master/scripts/utilities/helloworld.py,Test Script,helloworld.py,038eb03420ef326d3b1daba4387c77cf,Qazaroth,utilities,12052020,utilities,21
