@@ -5,4 +5,4 @@
 --[#],test,https://raw.githubusercontent.com/Qazaroth/pget-list/master/test.py,The Pget test file,test.py,80a341a7a2925d0633d71b8cbb56dc8c,Qazaroth,test files,Infinity,testfile,Infinite
 --[#],helloworld,https://raw.githubusercontent.com/Qazaroth/pget-list/master/scripts/utilities/helloworld.py,Test Script,helloworld.py,038eb03420ef326d3b1daba4387c77cf,Qazaroth,utilities,12052020,utilities,21
 --[#],number guess,https://raw.githubusercontent.com/Qazaroth/pget-list/master/scripts/games/NumberGuess.py,A number guessing game using random function,numberguess.py,9fbe92184b213aaefe9de51fef886fe0,Unknown,games,13082017,games,1910
---[#],gambling,https://raw.githubusercontent.com/Outkastt32/Gambling-Game/master/Gambling.py,A game based fully on luck.Test your luck here,gambling.py,79bd08e942cc4dbc7f4e95d3f11e9613,Outkastt32,games,13052020,games,439
+--[#],gambling,https://raw.githubusercontent.com/Qazaroth/pget-list/master/scripts/game/Gambling.py,A game based fully on luck.Test your luck here,gambling.py,79bd08e942cc4dbc7f4e95d3f11e9613,Outkastt32,games,13052020,games,439
