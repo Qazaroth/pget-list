@@ -6,3 +6,4 @@
 --[#],helloworld,https://raw.githubusercontent.com/Qazaroth/pget-list/master/scripts/utilities/helloworld.py,Test Script,helloworld.py,038eb03420ef326d3b1daba4387c77cf,Qazaroth,utilities,12052020,utilities,21
 --[#],number guess,https://raw.githubusercontent.com/Qazaroth/pget-list/master/scripts/games/NumberGuess.py,A number guessing game using random function,numberguess.py,9fbe92184b213aaefe9de51fef886fe0,Unknown,games,13082017,games,1910
 --[#],gambling,https://raw.githubusercontent.com/Qazaroth/pget-list/master/scripts/game/Gambling.py,A game based fully on luck.Test your luck here,gambling.py,79bd08e942cc4dbc7f4e95d3f11e9613,Outkastt32,games,13052020,games,439
+--[#],usernamegenerator,https://raw.githubusercontent.com/Qazaroth/pget-list/master/scripts/utilities/UsernameGenerator.py,Randomly generates username from pre-existing words online,usernamegenerator.py,3227e55bb4623fb8a56f4afb1b7bc1de,Qazaroth,utilities,14052020,utilities,1740
